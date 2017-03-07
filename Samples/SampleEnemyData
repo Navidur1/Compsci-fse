@@ -1,0 +1,35 @@
+THIS IS PSEUDOCODE
+lel
+
+import ProjectileData
+
+def kittens(listdata, tick):
+    image.load(kitten)
+    pos = [listdata[0][0] + math.cos(trajectory) * speed,
+                      listdata[0][1] + math.sin(trajectory) * speed]
+    #newlistdata -> [pos, trajectory, speed, health, Y/N, plnum]
+    speed = 0
+    damage = 0
+    outputimage = 'loelfuckernoobshit'
+
+    if Y/N = N:
+        if newlistdata[-1] == 0:
+            shit happens
+            spd, dmg, outimage get set
+        elif newlistdata[-1] == 1:
+            different shit happens
+            spd, dmg, outimage get set
+        etc.
+
+        if disttoplayer <= 200:
+            speed+=40
+            trajectory = point at player pos
+            ProjectileData.kittenshot([thingthatsitsonkitten])
+        else:
+            pass
+    else:
+        do same shit except to enemies
+    
+    screen.blit(outputimage, curpos)
+
+    return [pos, trajectory, speed, health, Y/N, plnum]
