@@ -15,10 +15,10 @@ def kittens(listdata, tick):
 
     if Y/N = N:
         if newlistdata[-1] == 0:
-            shit happens
+            shit.happens()
             spd, dmg, outimage get set
         elif newlistdata[-1] == 1:
-            different shit happens
+            shit.happens(different)
             spd, dmg, outimage get set
         etc.
 
