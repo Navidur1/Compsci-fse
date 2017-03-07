@@ -1,0 +1,19 @@
+THIS IS PSEUDOCODE
+FUCK YOU IF YOU THINK ITS NOT
+
+def kittenshot(inputlist):
+    #[curpos, trajectory, speed, lifetime, imagetag, dmg, size, Y/N/W]
+
+    if lifetime == 0:
+        do shit
+        disappear
+        fuck
+        idk
+        explode
+        i dont fucking know any fucking more fuck this fucking shit
+
+    else:
+        curpos = calculate based on trajectory, speed, and curpos
+        lifetime -= 1
+
+        return inputlist
